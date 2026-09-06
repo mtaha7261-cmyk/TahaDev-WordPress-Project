@@ -56,5 +56,3 @@ The Taha Astra Child Theme contains custom style and functionality files:
 ## Author
 
 Muhammad Taha
-
-Abhi bas ye text paste karo. Uske baad neeche scroll karke "Commit changes" wala button dabana hai.
